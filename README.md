@@ -98,24 +98,3 @@ Hi, I’m **Ahmed Hashem** 👋
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhashemm&theme=shadow_green&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
-
----
-
-## 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedhashemm&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedhashemm&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-## 🌍 Visitors Summary:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedhashemm&theme=radical" />
-</p>
