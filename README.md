@@ -87,14 +87,3 @@ Hi, I’m **Ahmed Hashem** 👋
 - Time Management  
 - Creativity & Organization  
 
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedhashemm&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ahmedhashemm&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhashemm&theme=shadow_green&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
